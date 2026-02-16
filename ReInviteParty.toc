@@ -2,5 +2,5 @@
 ## Title: ReinviteParty
 ## Notes: Adds a movable "Reinvite Party" button for raid leaders to convert the raid to a party (if possible) and reinvite former members if needed.
 ## Version: 1.0
-## Author: Grok
+## Author: TeoVerunda
 ReinviteParty.lua
